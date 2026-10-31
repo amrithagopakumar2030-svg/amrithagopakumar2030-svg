@@ -38,12 +38,10 @@ Project	Description	Tech
 Project One	Brief project description	React
 Project Two	Brief project description	Python
 Project Three	Brief project description	JavaScript
-🌐 Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)
 
 💡 Developer Quote
-"First, solve the problem. Then, write the code." – John Johnson
+"First, solve the problem. Then, write the code."
 ⭐ Thanks for visiting my profile!
 
 If you find something interesting here, feel free to ⭐ my repositories and connect with me!
