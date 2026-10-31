@@ -3,11 +3,11 @@
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions, exploring new technologies, and turning ideas into reality.
 
-🔭 I'm currently working on [Your Current Project]
-🌱 I'm currently learning [Technology / Framework]
+🔭 I'm currently working on IOT based project
+🌱 I'm currently learning C
 👯 I'm looking to collaborate on Open Source Projects
-💬 Ask me about [Your Skills / Technologies]
-📫 Reach me at: **your.email@example.com**
+💬 Ask me about Programming
+📫 Reach me at: **amrithagopakumar77@gmail.com**
 ⚡ Fun fact: I love learning something new every day!
 🛠️ Tech Stack & Tools
 
@@ -37,7 +37,6 @@ Tools & Platforms
 Project	Description	Tech
 Project One	Brief project description	React
 Project Two	Brief project description	Python
-Project Three	Brief project description	JavaScript
 
 
 💡 Developer Quote
